@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{726DE693-7421-D7CF-0FDF-954AECA173EE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ProgBasics.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyGame/Scripts/ProgBasics.cs">
     <Files>
-      <File FileName="Assets/Scripts/ProgBasics.cs" Line="37" Column="1" />
+      <File FileName="Assets/MyGame/Scripts/ProgBasics.cs" Line="52" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
